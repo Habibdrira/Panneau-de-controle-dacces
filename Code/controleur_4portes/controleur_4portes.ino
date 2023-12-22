@@ -65,7 +65,11 @@
   MR (pin 10)------------------------------------------------------------- to 5V
  VCC ----------------------------------------------------------------------- 5V
  ***********************************
-
+bibliotheques  :
+EthernetENC : https://github.com/JAndrassy/EthernetENC
+PCF8574_library :https://github.com/xreef/PCF8574_library/tree/master
+SSLClient :https://github.com/OPEnSLab-OSU/SSLClient
+Yet_Another_Arduino_Wiegand_Library "Wiegand.h" :https://github.com/paulo-raca/YetAnotherArduinoWiegandLibrary
 */
 
 #include <EthernetENC.h>
