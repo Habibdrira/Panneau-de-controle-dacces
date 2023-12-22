@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=  NewDesignator=R18
+Added Pin To Net: NetName=GND_1 Pin=J5-28
+Added Class: Name=13
+Added Class: Name=14
+Added Class: Name=realy
+Added Member To Class: ClassName=panneau_sheet Member=Component I1 Header 4
+Added Member To Class: ClassName=panneau_sheet Member=Component J2 1546215-2
+Added Member To Class: ClassName=panneau_sheet Member=Component J3 1546215-2
+Added Member To Class: ClassName=panneau_sheet Member=Component J4 1546215-2
+Added Member To Class: ClassName=panneau_sheet Member=Component J6 1546215-2

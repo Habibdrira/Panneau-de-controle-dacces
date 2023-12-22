@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5v Pin=I1-1
+Change Component Designator: OldDesignator=ETHRNET NewDesignator=ENC1
+Added Pin To Net: NetName=12v Pin=I1-1
+Added Pin To Net: NetName=GND_1 Pin=J5-28
