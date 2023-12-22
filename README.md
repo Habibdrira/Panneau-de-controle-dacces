@@ -40,7 +40,7 @@ Les panneaux de contrôle d'accès sont utilisés pour gérer l'activité de con
 
 ## Schémas PCB
 
-![Schémas PCB](Schema/img)
+![Schémas PCB](Schema/img.png)
 
 ## Contact
 
